@@ -1,0 +1,1 @@
+I used ArrayDeque a lot before, so I always stuck in the runtime and never touch the main part of my gold point.
